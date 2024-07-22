@@ -2,7 +2,7 @@
 
 [fs](http://nodejs.org/api/fs.html) for the browser using [level-filesystem](https://github.com/mafintosh/level-filesystem), [level.js](https://github.com/maxogden/level.js) and [browserify](https://github.com/substack/node-browserify)
 
-	npm install browserify-fs
+	npm install srepollock-browserify-fs
 
 ![dat](http://img.shields.io/badge/Development%20sponsored%20by-dat-green.svg?style=flat)
 
